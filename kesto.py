@@ -20,7 +20,7 @@ Si bien Kesto participa y crea contenido en torno a torneos y modos de juego com
 En resumen, el éxito de Kesto en Call of Duty es un testimonio de su talento como creador de contenido, logrando cautivar a una audiencia masiva a través de su pasión por el juego, su carisma y la calidad de su producción en plataformas como YouTube.
 """
       )
-st.badge("video mas reciente", color="blue", icon=":smiling_imp:")
+st.badge("video mas reciente", color="blue")
 
 st.video("https://www.youtube.com/watch?v=7qaUyjBAuBg")
 st.header("El Mayor Logro de Kesto: Forjar una Comunidad de Millones en Call of Duty")
@@ -44,5 +44,6 @@ En resumen, el mayor logro de Kesto es haberse consolidado como una figura centr
       )
 
 st.divider()
+
 
 
