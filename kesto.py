@@ -1,6 +1,6 @@
 import streamlit as st 
 st.title("el Kesto")
-st.badge("maquina", color="red", icon=":smiling_imp:")
+st.badge("maquina", color="red", icon="bomb:")
 
 
 st.divider()
@@ -42,4 +42,5 @@ Fomentar la Interacción: Organiza torneos y eventos para sus propios seguidores
 En resumen, el mayor logro de Kesto es haberse consolidado como una figura central y un referente indispensable para la comunidad hispanohablante de Call of Duty, transformando su pasión por el juego en una exitosa carrera que impacta y entretiene a millones de personas.
 """
       )
+
 st.divider()
