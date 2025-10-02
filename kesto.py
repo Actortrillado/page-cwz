@@ -1,6 +1,6 @@
 import streamlit as st 
 st.title("el Kesto")
-st.badge("maquina", color="red", icon="bomb:")
+st.badge("maquina", color="red")
 
 
 st.divider()
@@ -44,3 +44,4 @@ En resumen, el mayor logro de Kesto es haberse consolidado como una figura centr
       )
 
 st.divider()
+
