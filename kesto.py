@@ -43,9 +43,10 @@ En resumen, el mayor logro de Kesto es haberse consolidado como una figura centr
 """
       )
 
-st.auidio("remix.mp3")
+st.audio("remix.mp3")
 
 st.divider()
+
 
 
 
