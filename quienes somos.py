@@ -7,7 +7,7 @@ st.divider()
 
 
 st.header("¿quienes somos?")
-st.writer(
+st.write(
 """
 Somos los que escuchan en el silencio que queda tras el estruendo. Somos los que ven las historias escritas en los muros marcados por las balas. Somos los Cronistas de la Guerra, y esta es nuestra biblioteca sagrada.
 
@@ -32,4 +32,5 @@ Así que, bienvenido, iniciado. Has llegado a un lugar creado por un operador, p
 Y ahora, tú también lo eres.
 
 """
+
      )
