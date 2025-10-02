@@ -7,7 +7,7 @@ st.divider()
 
 
 st.header("La maquina")
-st.writer(
+st.write(
 """
 Kesto, una figura prominente en la comunidad de Call of Duty de habla hispana, ha consolidado su éxito principalmente como un popular y carismático creador de contenido en YouTube, más que como un jugador profesional de esports. Con una sólida base de seguidores que supera los 1.7 millones de suscriptores en su canal principal, se ha convertido en una referencia para los aficionados del aclamado shooter de Activision.
 
@@ -44,4 +44,5 @@ En resumen, el mayor logro de Kesto es haberse consolidado como una figura centr
       )
 
 st.divider()
+
 
