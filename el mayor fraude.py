@@ -1,7 +1,7 @@
 import streamlit as st 
 
 st.header("El mayor fraude de la saga", divider=True)
-st.image("calll.")
+st.image("calll.webp")
 st.write(
 """
 Los Villanos Más Icónicos de Call of Duty:
@@ -50,3 +50,4 @@ Papel: Al-Asad es un líder revolucionario en un país sin nombre de Oriente Med
     )
 
 st.video("https://www.youtube.com/watch?v=lcBG3iF8Ano")
+
