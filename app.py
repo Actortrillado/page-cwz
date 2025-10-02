@@ -6,7 +6,8 @@ st.set_page_config(
     ) 
 
 
-pg = st.navigation(["Pagina principal.py", "Secretos.py", "el mayor fraude.py", "armas meta.py", "kesto.py"])
+pg = st.navigation(["Pagina principal.py", "Secretos.py", "el mayor fraude.py", "armas meta.py", "kesto.py", "quienes somos.py"])
 pg.run()
+
 
 
