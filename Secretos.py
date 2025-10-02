@@ -37,5 +37,6 @@ El Secreto Un guiño a la trama de Call of Duty Ghosts, haciendo referencia al a
         )
 
 
-st.image("search.htm")
+st.image("search.png")
+
 
