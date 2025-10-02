@@ -25,7 +25,7 @@ st.badge("video mas reciente", color="blue")
 st.video("https://www.youtube.com/watch?v=7qaUyjBAuBg")
 st.header("El Mayor Logro de Kesto: Forjar una Comunidad de Millones en Call of Duty")
 
-st.writer(
+st.write(
 """
 El mayor logro de Kesto en el universo de Call of Duty no es un trofeo de un torneo profesional, sino la construcción de una de las comunidades de habla hispana más grandes y fieles en torno al videojuego. Su éxito se mide en el impacto y la influencia que ha cultivado como uno de los creadores de contenido más importantes de la franquicia.
 
@@ -44,6 +44,7 @@ En resumen, el mayor logro de Kesto es haberse consolidado como una figura centr
       )
 
 st.divider()
+
 
 
 
